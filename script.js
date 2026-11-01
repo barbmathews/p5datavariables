@@ -8,7 +8,7 @@ async function setup(){
     console.log(myData)
     // angleMode(DEGREES);
 
-    img = await loadImage('/assets/IMG_7152.heic');
+    img = await loadImage('assets/IMG_7152.heic');
 
     background(50);
 }
