@@ -1,0 +1,66 @@
+[
+  {
+    "movie": 1,
+    "title": "primetime",
+    "year": 2026,
+    "watched": "4 weeks ago",
+    "rating": "5/5",
+    "viewed": "first watch"
+  },
+  {
+    "movie": 2,
+    "title": "halloween",
+    "year": 2018,
+    "watched": "3 weeks ago",
+    "rating": "3/5",
+    "viewed": "rewatch"
+  },
+  {
+    "movie": 3,
+    "title": "other mommy",
+    "year": 2026,
+    "watched": "4 weeks ago ",
+    "rating": "2/5",
+    "viewed": "first watch"
+  },
+  {
+    "movie": 4,
+    "title": "carol",
+    "year": 2015,
+    "watched": "within 1 week",
+    "rating": "5/5",
+    "viewed": "rewatch"
+  },
+  {
+    "movie": 5,
+    "title": "halloween II",
+    "year": 1981,
+    "watched": "3 weeks ago",
+    "rating": "4/5",
+    "viewed": "first watch"
+  },
+  {
+    "movie": 6,
+    "title": "poltergeist",
+    "year": 1982,
+    "watched": "within 1 week",
+    "rating": "5/5",
+    "viewed": "rewatch"
+  },
+  {
+    "movie": 7,
+    "title": "rosemary's baby",
+    "year": 1968,
+    "watched": "2 weeks ago",
+    "rating": "3/5",
+    "viewed": "first watch"
+  },
+  {
+    "movie": 8,
+    "title": "you can see everything",
+    "year": 2026,
+    "watched": "within 1 week",
+    "rating": "5/5",
+    "viewed": "first watch"
+  }
+]
